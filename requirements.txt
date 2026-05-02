@@ -1,0 +1,16 @@
+# Bibliotecas principais de Machine Learning e Visão Computacional
+tensorflow>=2.15.0
+keras>=2.15.0
+opencv-python>=4.8.0
+numpy>=1.23.5
+
+# Manipulação e visualização de dados
+pandas>=2.0.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+scikit-learn>=1.2.2
+
+# Utilidades e ambiente
+ipykernel
+requests
+Pillow>=10.0.0
