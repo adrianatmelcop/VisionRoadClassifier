@@ -17,6 +17,16 @@ O objetivo principal é classificar imagens de vias em três categorias distinta
 
 O modelo foi treinado para lidar com variações de iluminação, condições climáticas e diferentes ângulos de captura, utilizando técnicas avançadas de processamento de imagem.
 
+## 📊 Conjunto de Dados (Dataset)
+
+O conjunto de dados utilizado neste projeto contém imagens estruturadas para o treinamento de modelos de classificação de pavimentação.
+
+*   **Classes:** Asphalt (Asfalto), Belgian Blocks (Paralelepípedo) e Offroad (Terra/Grama).
+*   **Formato:** Arquivo comprimido `.zip` contendo pastas separadas para `train` (treino) e `test` (teste).
+*   **Download:** Devido ao tamanho do arquivo, o dataset está hospedado externamente. Você pode baixá-lo através do link abaixo:
+
+> 🔗 [**Baixar Dataset: dataset_processed.zip**](https://drive.google.com/file/d/1ZuIkUkk-pJESWwNe2o-y7z512jwXWeWh/view?usp=drive_link)
+
 ## 🛠️ Tecnologias e Metodologia
 
 - **Arquitetura:** [MobileNetV2](https://arxiv.org/abs/1801.04381) - escolhida pelo excelente equilíbrio entre precisão e eficiência computacional.
