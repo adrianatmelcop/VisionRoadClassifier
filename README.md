@@ -38,9 +38,7 @@ O conjunto de dados utilizado neste projeto contém imagens estruturadas para o 
 ## 📂 Estrutura do Repositório
 
 ```text
-├── models/                 # Modelos salvos (.h5 ou .keras)
 ├── notebooks/              # Jupyter Notebook com todo o pipeline de treino
-│   └── DesafioVisaoComputacional.ipynb
-├── reports/                # Matrizes de confusão e gráficos de performance
+│   └── RoadSurfaceCV.ipynb
 ├── requirements.txt        # Bibliotecas necessárias para rodar o projeto
 └── README.md               # Documentação do projeto
